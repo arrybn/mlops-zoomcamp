@@ -4,6 +4,6 @@ scikit-learn
 pandas
 seaborn
 hyperopt
-xgboost
+xgboost==1.6.0
 fastparquet
 boto3
