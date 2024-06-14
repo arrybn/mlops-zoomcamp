@@ -1,9 +1,10 @@
 mlflow
 jupyter
-scikit-learn=1.4.2
+scikit-learn==1.4.2
 pandas
 seaborn
 hyperopt
 xgboost==1.6.0
 fastparquet
 boto3
+setuptools
